@@ -26,12 +26,12 @@
 ## Setup
 Clone the repository to your local machine:
 ```sh
-git clone https://github.com/
+git clone https://github.com/omkarsalunkheatp1211/File-Folder-Encryption-Decryption.git
 ```
 
 Navigate to the project directory:
 ```sh
-cd <project-directory>
+cd File-Folder-Encryption-Decryption
 ```
 
 Compile all files:
