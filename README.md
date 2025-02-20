@@ -1,4 +1,4 @@
-# File Encryption and Decryption Tool
+# File/Filder📂 Encryption and Decryption Tool
 
 ## Table of Contents
 - [Features](#features)
